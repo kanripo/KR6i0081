@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:22.463172
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏
 #+PROPERTY: CBETA_ID T38n1778
 #+PROPERTY: ID KR6i0081
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1778
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0081_T_006-0638b> ¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 維摩經略疏卷第六(小卷十八)¶
+維摩經略疏卷第六(小卷十七)¶
 ¶
 天台沙門湛然略¶
 
-:PROPERTIES:
-:head: 菩薩品之二
-:END:
-
-18維摩經略疏卷第十八¶
+* 菩薩品之二¶
 
 為從下二約無生行破一生受記。所以約行¶
 破者乃由彌勒以有伏難。難云理無受記可¶
@@ -563,16 +558,9 @@
 不堪。光嚴自惟往昔迷真道場因淨名方解。¶
 既神智劣弱豈堪傳旨往問疾乎。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十九
-:END:
-¶
+* 維摩經略疏卷第十八¶
 
-:PROPERTIES:
-:head: 菩薩品之三
-:END:
-
-19維摩經略疏卷第十九¶
+* 菩薩品之三¶
 
 佛告持世菩薩汝行詣維摩詰問疾三命持世¶
 文為二。一命問疾二辭不堪。所以次命者其¶
@@ -1154,17 +1142,9 @@
 如來印定。皆成五種利益之義。豈可偏序分¶
 也。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第二十
-:END:
-¶
+* 維摩經略疏卷第十九¶
 
-5問疾品(六-七)
-:PROPERTIES:
-:head: 問疾品之初
-:END:
-
-20維摩經略疏卷第二十¶
+* 問疾品之初¶
 
 此品次菩薩品來者。上佛命諸弟子菩薩各¶
 辭不堪。今次命文殊。文殊恭命故言文殊師¶

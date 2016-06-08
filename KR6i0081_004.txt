@@ -1,26 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:22.348455
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏
 #+PROPERTY: CBETA_ID T38n1778
 #+PROPERTY: ID KR6i0081
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1778
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0081_T_004-0608a> 
 #+PROPERTY: JUAN 4
 ¶
-
- 維摩經略疏卷第四(小卷十一)¶
+維摩經略疏卷第四(小卷十一)¶
 ¶
 天台沙門湛然略¶
 
-3弟子品(四-五)
-:PROPERTIES:
-:head: 弟子品初
-:END:
-
-11維摩經略疏卷第十一¶
+* 弟子品初¶
 
 此品次方便品來者。為破無為緣集成淨佛¶
 國之教。已如前說其意乃多非凡所測。今亦¶
@@ -491,16 +485,9 @@
 神通所鑑用亦不深。故用定呵意在於此。下¶
 八人廣如法華疏。今略明耳。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十二
-:END:
-¶
+* 維摩經略疏卷第十二¶
 
-:PROPERTIES:
-:head: 弟子品之二
-:END:
-
-12維摩經略疏卷第十二¶
+* 弟子品之二¶
 
 佛告大目揵連次命目連文為二。一佛命問¶
 疾二奉辭不堪。所以次命者身子既辭不堪。¶
@@ -804,16 +791,9 @@
 疾大段第四結辭不堪。目連自惟。既無三教¶
 之辨致昔被呵。今豈堪傳佛旨往問疾也。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十二
-:END:
-¶
+* 維摩經略疏卷第十二¶
 
-:PROPERTIES:
-:head: 弟子品之三
-:END:
-
-13維摩經略疏卷第十三¶
+* 弟子品之三¶
 
 佛告大迦葉三命大迦葉文為二。一佛命問¶
 疾二奉辭不堪。所以次命者於聲聞中頭陀¶
@@ -1089,16 +1069,9 @@
 時莫知酬答。今豈堪傳佛旨往問疾也。
 <pb:KR6i0081_T_004-0618c>¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十三
-:END:
-¶
+* 維摩經略疏卷第十三¶
 
-:PROPERTIES:
-:head: 弟子品之四
-:END:
-
-14維摩經略疏卷第十四¶
+* 弟子品之四¶
 
 佛告須菩提四命善吉文為二。一命問疾二¶
 辭不堪。所以次命者以聲聞中解空第一。須¶

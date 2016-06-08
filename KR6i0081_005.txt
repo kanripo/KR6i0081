@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:22.401089
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏
 #+PROPERTY: CBETA_ID T38n1778
 #+PROPERTY: ID KR6i0081
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1778
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0081_T_005-0623b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 維摩經略疏卷第五(小卷十四)¶
+維摩經略疏卷第五(小卷十四)¶
 ¶
 天台沙門湛然略¶
 
-:PROPERTIES:
-:head: 弟子品之五
-:END:
-
-15維摩經略疏卷第十五¶
+* 弟子品之五¶
 
 佛告富樓那五命富樓那文亦二。一命問疾¶
 二辭不堪。所以次命者以弟子中說法第一。¶
@@ -486,16 +481,9 @@
 說天眼。致被大士彈呵莫所對。豈堪奉旨往¶
 問疾也。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十六
-:END:
-¶
+* 維摩經略疏卷第十五¶
 
-:PROPERTIES:
-:head: 弟子品之六
-:END:
-
-16維摩經略疏卷第十六¶
+* 弟子品之六¶
 
 佛告優婆離八命優婆離文為二。一命問疾¶
 二辭不堪。所以次命者以其弟子中持律第¶
@@ -1041,17 +1029,9 @@
 用衍教五百法門彈呵折挫。別相分別顯發¶
 枯榮。既不傳此寧可厝心而解釋也。¶
 
-:PROPERTIES:
-:head: 維摩經略疏卷第十七
-:END:
-¶
+* 維摩經廣疏卷第十六¶
 
-4菩薩品(五-六)
-:PROPERTIES:
-:head: 菩薩品之初
-:END:
-
-17維摩經廣疏卷第十七¶
+* 菩薩品之初¶
 
 此品次弟子品來者。三為破自體緣集顯不¶
 思議解脫法身。成如來淨土之教。品意眾多¶

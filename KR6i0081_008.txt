@@ -1,28 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:22.582393
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏
 #+PROPERTY: CBETA_ID T38n1778
 #+PROPERTY: ID KR6i0081
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1778
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0081_T_008-0671c> ¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 維摩經略疏卷第八(小卷二十四)¶
+維摩經略疏卷第八(小卷二十三)¶
 ¶
 天台智者大師說沙門湛然略¶
 
-7觀眾生品(八)
-:PROPERTIES:
-:head: 釋觀眾生品
-:END:
-¶
+* 釋觀眾生品¶
 
-24維摩經略疏卷第二十四
 此下四品次不思議品來者。略用三義通釋。¶
 一明此品及下三品來意。二略釋此品名。三¶
 帖釋。入文一釋來意者。上不思議一品成上¶
@@ -914,7 +908,7 @@
 十界眾生無有盡也。大經云有種種寶藏。以¶
 譬是經即是寶藏。謂四種道品嬰兒等行。四¶
 種聖人功德等無量寶藏。此室至之法。是¶
-七未曾有法。此室十方佛現。即是大士觀十¶
+七未曾有法。此室十方佛現。即是大土觀十¶
 二緣空得念佛三昧。十方諸佛真應二身隨¶
 念現前。大經云大身眾生居住之處大眾生者¶
 謂佛菩薩之所住也。此室至之法。是八未曾¶
